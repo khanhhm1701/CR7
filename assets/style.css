@@ -1,0 +1,32 @@
+.banner {
+    width: 100%;
+}
+
+.content {
+    margin-top: 32px;
+}
+
+.ronaldo-img {
+    width: 500px;
+    float: left;
+    border: 10px double #FA8072;
+    margin-right: 28px;
+    margin-bottom: 8px;
+}
+
+.content-text {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    padding-left: 28px;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+}
+
+.video video{
+    width: 80%;
+}
+
+
